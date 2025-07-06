@@ -1,5 +1,5 @@
 *&---------------------------------------------------------------------*
-*& REPORT ZFT_ABAP_09.
+*& REPORT ZFT_GET_DATA_2.
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
@@ -11,7 +11,7 @@
 *eine Informationsmeldung mit der Anzahl der gelesenen Zeilen an.
 
 
-REPORT zft_abap_09.
+REPORT ZFT_GET_DATA_2.
 
 SELECTION-SCREEN BEGIN OF BLOCK a1 WITH FRAME TITLE TEXT-001 NO INTERVALS.
 
