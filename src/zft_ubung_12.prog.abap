@@ -195,4 +195,4 @@ START-OF-SELECTION.
 
     go_obj->alv_sflight( ).
 
-  ENDIF.
+  ENDIF. 
