@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZFT_UBUNG_05.
+REPORT ZFT_UBUNG_05.  
 
 *Erstellen Sie einen neuen Bericht und nehmen Sie einen Parameter vom Benutzer entgegen (eine Zahl und zwei Radiobuttons).
 *Die Radiobuttons sollen mit „Quadrat“ und „Kubik“ (bzw. „Karesi“ und „Küpü“) beschriftet sein.
