@@ -86,4 +86,4 @@ START-OF-SELECTION.
 *
 *    ev_result = IV_NUMMER * IV_NUMMER.
 *
-*  endmethod.
+*  endmethod. 
