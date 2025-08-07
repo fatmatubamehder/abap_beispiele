@@ -106,4 +106,4 @@ ENDIF.
 *
 *write: EV_TAG.
 *
-*ENDFUNCTION.
+*ENDFUNCTION. 
