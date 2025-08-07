@@ -23,4 +23,4 @@ select * from sflight
   FOR ALL ENTRIES IN gt_spfli
   WHERE carrid = gt_spfli-carrid.
 
-  BREAK-POINT.
+  BREAK-POINT. 
