@@ -23,7 +23,7 @@ DATA: gt_spfli TYPE TABLE OF spfli,
       gv_msg TYPE string,
       gv_no TYPE n LENGTH 2.
 
-
+ 
 
 START-OF-SELECTION.
 
