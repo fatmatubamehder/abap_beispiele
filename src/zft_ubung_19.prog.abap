@@ -6,19 +6,14 @@
 REPORT zft_ubung_19.
 
 
-*Amaç; Call Screen(Dynpro) ekranında iki container oluşturarak seçili satırları soldan sağa veya sağdan sola geçirme ve silem işlemlerini gerçekleştireceğiz.
-*Metod;Call screen ekranında iki container oluşturacağız, Soldaki container doldurulacak sağdaki boş olacak, soldakinden seçtiğimiz satırlar butona basınca
-*sağa geçecek ve soldaki satırlar silinecek . Aynı şekilde sağdan  seçilenlerde sola geçecek ve saüda görünmeyecek. Ayrıca her iki tablodada işaretlediklerimizi
-*silebileceğiz, ancak Database tablodan değil dahili tablodan silme işlemi gerçekleşecek.
-*Yol;1-Programda Data tanımlamaları yapılacak , iki kontainer için , ayrıca sflight tablosundan veri çekilecek, onunla ilgili yanımlamalar ayrıca tabloda seçim
-*yapılacağı için bununla ilgili tamımlamalar yapılacak.
-*2-Call screen tanımlanacak, iki container oluşturulacak arada soldan sağa ve sağdan sola geçirmesiiçin iki buton tasarlanacak, ayrıca containerların altında delete
-*işlemi için iki buton daha tasarlanacak
-*3-Programdan çıkmak için Exit tanımlanacak ancak bu call screen pf statusde yapılacak.
-*4- Programda butonların içi için gerekli kodlar yazılacak, form-perform yapıları kullanılacak.
-*5- Call screen açıldığında soldaki containerda sflight tablosu görünümü sağlanacak ve sağdaki container boş olacak.
-*6-Program çalışınca soldaki tablodan seçtiğim kolonlar seçilip butona basınca sağa geçecek ve soldan silinmiş olacak, aynı şekilde sağdan da sola geçiş sağlanacak
-*7-Ayrıca seçili satırların delete butonuna basınca silme işlemi gerçekleşecek.
+*Ziel:
+*Auf dem Call-Screen (Dynpro) sollen zwei Container erstellt werden, um ausgewählte Zeilen von links nach rechts oder von rechts nach links zu verschieben und zu löschen.
+
+*Methode:
+*Auf dem Call-Screen werden zwei Container erstellt. Der linke Container wird mit Daten gefüllt, der rechte ist zunächst leer. 
+*Die im linken Container ausgewählten Zeilen werden beim Betätigen eines Buttons nach rechts verschoben und aus dem linken Container entfernt. 
+*Genauso werden ausgewählte Zeilen vom rechten Container nach links verschoben und im rechten Container nicht mehr angezeigt. 
+*Zusätzlich können markierte Zeilen in beiden Tabellen gelöscht werden, jedoch nicht aus der Datenbank, sondern nur aus den internen Tabellen.
 
 
 
