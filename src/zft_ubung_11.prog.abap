@@ -105,4 +105,4 @@ go_getdata->get_data(
 *
 *    ENDIF.
 *
-*  ENDMETHOD.
+*  ENDMETHOD. 
