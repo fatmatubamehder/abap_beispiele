@@ -113,4 +113,4 @@ START-OF-SELECTION.
 *
 *    WRITE: 'Ergebnis =', ev_result.
 *
-*  ENDFUNCTION.
+*  ENDFUNCTION. 
