@@ -221,17 +221,4 @@ FORM alv.
     ENDIF.
   ENDIF.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ENDFORM.
