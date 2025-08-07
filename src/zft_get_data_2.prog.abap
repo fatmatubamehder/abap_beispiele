@@ -48,4 +48,4 @@ CONCATENATE 'Anzahl der gelesenen Daten =' gv_no into gv_msg RESPECTING BLANKS.
 
 MESSAGE gv_msg TYPE 'I'.
 
-*BREAK-POINT.
+*BREAK-POINT. 
