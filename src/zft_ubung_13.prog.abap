@@ -107,4 +107,4 @@ START-OF-SELECTION.
 
   go_obj->get_data_sbook( ).
 
-  go_obj->display_alv( ).
+  go_obj->display_alv( ). 
