@@ -45,4 +45,4 @@ START-OF-SELECTION.
       clear: gv_text_2.
     ENDDO.
 
-  ENDIF.
+  ENDIF. 
