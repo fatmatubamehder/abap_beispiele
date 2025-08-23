@@ -6,6 +6,12 @@
 REPORT zft_ubung_37.
 
 
+*Wir haben zwei Datenbanktabellen. In der einen stehen die Personennamen und ihre gesamten Urlaubsansprüche.
+*In der anderen stehen die Urlaubsdaten der Mitarbeiter mit Beginn- und Enddatum. Allerdings kommen in dieser
+*zweiten Tabelle einige Mitarbeiter vor, die in der ersten Tabelle nicht enthalten sind. Schreiben Sie ein Programm,
+*das die Namen der Mitarbeiter auflistet, die noch keinen Urlaub genommen haben, sowie die, die zwar Urlaub genommen haben,
+*aber nicht in der ersten Tabelle vorhanden sind.
+
 
 DATA: go_container  TYPE REF TO cl_gui_custom_container.
 DATA: go_grid  TYPE REF TO cl_gui_alv_grid.
