@@ -175,4 +175,4 @@ select single * from spfli
 
   p_cntrfr = gs_spfli-countryfr.
   p_cityfr = gs_spfli-cityfrom.
-  p_airfr  = gs_spfli-airpfrom.
+  p_airfr  = gs_spfli-airpfrom. 
