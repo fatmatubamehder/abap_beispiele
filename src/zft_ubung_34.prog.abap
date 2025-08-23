@@ -84,7 +84,7 @@ at SELECTION-SCREEN.
 
   p_anzahl = p_dat_2 - p_dat_1.
 
-  p_mitte  = p_dat_1 + ( p_anzahl / 2 ).
+  p_mitte  = p_dat_1 + ( p_anzahl / 2 ). 
 
 
 
